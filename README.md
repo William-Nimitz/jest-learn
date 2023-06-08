@@ -1,2 +1,0 @@
-# jest-learn
-jest learn
